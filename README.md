@@ -1,2 +1,2 @@
-# hangman
-Hangman Game With OOP Approach
+# HANGMAN
+Hangman Game With OOP Approach Coded In Python
